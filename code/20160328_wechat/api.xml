@@ -1,0 +1,69 @@
+<xml>
+<ToUserName><![CDATA[oDbVYv8C-D4Lev8jFe2LBVaYuT_0]]></ToUserName>
+<FromUserName><![CDATA[gh_efcbd3be16fc]]></FromUserName>
+<CreateTime>12345678</CreateTime>
+<MsgType><![CDATA[news]]></MsgType>
+<ArticleCount>10</ArticleCount>
+<Articles>
+        <item>
+        <Title><![CDATA[杀牛场原味老火锅(高新店)]]></Title>
+        <Description><![CDATA[武侯区锦城大道965号]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.581304,104.060273&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=57ecfe80c2f3a007e91e972e&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[超超超好吃的藿香鱼]]></Title>
+        <Description><![CDATA[成都武侯区剑南大道北段(近府城大道)]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.582944,104.052642&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=07f3c8b561c6757a6340a993&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[井道香重庆老火锅]]></Title>
+        <Description><![CDATA[武侯区高新区锦城大道1000号(金苹果幼儿园（高新园）旁)]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.581778,104.060327&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=47307c93ae14e210581093bd&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[蜀韵蜀味火锅(高新店)]]></Title>
+        <Description><![CDATA[高新区锦城大道1520号（锦城湖停车场斜对面）]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.582594,104.047849&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=0824ef58a5a4f31ac42ba175&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[蜀韵蜀味(高新店)]]></Title>
+        <Description><![CDATA[锦城大道1518号]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.581763,104.061776&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=f7c1aaf583d0b70c2806ce85&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[锦城印象火锅酒楼(德商国际店)]]></Title>
+        <Description><![CDATA[武侯区高新区益州大道北段913号(德商国际b座一层8栋3单元，锦城大道口，南苑对面)]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.580465,104.06685&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=5d8b60334d8b0d36f2193770&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[巷子口老火锅]]></Title>
+        <Description><![CDATA[成都市武侯区和盛东街109号]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.597353,104.061222&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=331e7223e26c65d0bca24072&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[蜀国飘香火锅(天泰路)]]></Title>
+        <Description><![CDATA[四川省成都市高新区锦城大道666号奥克斯广场5楼]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.582042,104.068031&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=34e485088155d3fbd8d89104&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[成都锦依味火锅]]></Title>
+        <Description><![CDATA[武侯区益州大道北段777号中航国际交流中心4栋2楼蜀锦路与交子南二路交叉口(奥克斯广场2号门和3号门的马路对面)]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.58348,104.068539&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=253a7a8e0e62c998eedfca39&output=html&source=placeapi_v2]]></Url>
+    </item>
+        <item>
+        <Title><![CDATA[绝城芋儿鸡(高新店)]]></Title>
+        <Description><![CDATA[成都市武侯区荟锦路194号]]></Description>
+        <PicUrl><![CDATA[http://api.map.baidu.com/panorama/v2?ak=6d3db534af92f194e9d2e5242101f80b&width=512&height=256&location=30.59632,104.06236&fov=180]]></PicUrl>
+        <Url><![CDATA[http://api.map.baidu.com/place/detail?uid=46ad8f1b32a11e1fca1b9571&output=html&source=placeapi_v2]]></Url>
+    </item>
+    </Articles>
+</xml>
